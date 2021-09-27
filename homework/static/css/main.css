@@ -1,0 +1,22 @@
+.heather{
+ margin-bottom: 50ps;
+}
+.container {
+  
+    display: contents;
+  
+  }
+#table{
+    padding: 30px;
+    width: 100%;
+  }
+
+#form{
+  width:100%;
+  padding-inline: 30px;
+  margin: 30px;
+}
+
+head{
+  background-color: #ADD8E6;
+}
